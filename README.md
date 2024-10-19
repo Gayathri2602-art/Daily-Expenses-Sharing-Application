@@ -9,7 +9,9 @@ Language==python.
 This code helps split expenses among participants. Here's how it works:
 
 Login: Users enter credentials to log in.
+
 Participant Details: Collects participants' names, emails, and phone numbers.
+
 Get Expense: Asks for the total expense and description.
 
 Split Method: Splits the expense equally, by exact amounts, or by percentage.
